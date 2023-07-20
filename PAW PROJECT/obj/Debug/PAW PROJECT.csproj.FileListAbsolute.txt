@@ -1,0 +1,25 @@
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\PAW PROJECT.exe.config
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\PAW PROJECT.exe
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\PAW PROJECT.pdb
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW PROJECT.csproj.AssemblyReference.cache
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW_PROJECT.AddTeacher.resources
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW_PROJECT.MainForm.resources
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW_PROJECT.Properties.Resources.resources
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW PROJECT.csproj.GenerateResource.cache
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW PROJECT.exe
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW PROJECT.pdb
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW_PROJECT.AddRoom.resources
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW_PROJECT.AddSubject.resources
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\obj\Debug\PAW PROJECT.csproj.CopyComplete
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\EntityFramework.dll
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\System.Data.SQLite.dll
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\EntityFramework.xml
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\savan\source\repos\PAW PROJECT\PAW PROJECT\bin\Debug\System.Data.SQLite.xml

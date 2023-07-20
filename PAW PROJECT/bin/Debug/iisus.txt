@@ -1,0 +1,12 @@
+Name: gfgfd
+Teacher ID: 7
+Phone Number: 43
+
+Name: DUMNEZEU
+Teacher ID: 69
+Phone Number: 77777777
+
+Name: DANIEL
+Teacher ID: 34
+Phone Number: 77777777
+
